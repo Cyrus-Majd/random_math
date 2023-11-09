@@ -1,0 +1,8 @@
+Start Node,End Node,Characteristic
+F,G,Hot
+F,E,Cold
+G,X,Hot
+X,E,Warm
+A,F,Warm
+F,B,Cold
+G,Y,Hot
